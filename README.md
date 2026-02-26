@@ -13,7 +13,7 @@ The SQL project on the medicalreports dataset features 33 comprehensive practice
 
 3. Joins & Relationships: Multi-table JOINs linked patients to provinces (full names/locations), admissions (diagnoses like Dementia/Epilepsy), and doctors (specialties for Epilepsy patients treated by 'Lisa'). Also UNION for patient/doctor roles
 
-# READMISSION INSIGHTS
+# READ MISSION INSIGHTS
 Total admissions across all patients indicate overall hospital activity levels.
 ​
 
